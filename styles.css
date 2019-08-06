@@ -1,0 +1,97 @@
+body{
+	background-image:url(dolares.jpg);
+	background-attachment: fixed;
+	background-size:cover;
+}
+
+
+.box{
+
+top:45%;
+left:50%;
+position:absolute;
+transform:translate(-50%, -50%);
+color:black;
+background-color:rgba(0,0,0,0.85);
+text-align:center;
+border-radius:20px;
+padding-top:50px;
+padding-bottom:45px;
+
+
+}
+.box select
+{background-color:white;
+width:200px;
+text-align:center;
+height:50px;
+font-size:20px;
+border-radius:10px;
+color:black; 
+margin-top:75px;
+border-color:red;
+}
+
+.box input[name="first"]
+{
+background-color:white;
+width:200px;
+text-align:center;
+height:50px;
+font-size:20px;
+border-radius:10px;
+color:black;
+border-color:red;
+}
+.box input[name="second"]
+{
+background-color:white;
+width:200px;
+text-align:center;
+height:50px;
+font-size:20px;
+border-radius:10px;
+color:black;
+margin-left:375px;
+margin-top:10px;
+border-color:red;
+}
+.p{
+width:768px;
+text-align:center;
+height:30px;
+font-size:35px;
+color:white; 
+margin-top:80px;
+}
+.pp{
+	
+	color:white;
+	background-color:black;
+	text-align:center;
+    height:80px;
+	margin-top:666px;
+    
+
+	
+}
+#monto{
+	margin-top:10px;
+    margin-left:-375px;
+}
+
+
+#monedas{
+	margin-top:-55px;
+	margin-left:-375px;	
+	color:white;
+	font-family: sans-serif;
+}
+
+#monedas2{
+	margin-top:-185px;
+    margin-left:410px;
+	margin-right:35px;
+	color:white;
+	font-family: sans-serif;
+}
